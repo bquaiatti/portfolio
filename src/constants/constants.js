@@ -31,8 +31,8 @@ export const projects = [
     description: "Webpage React application created using Next.js. It used JavaScript code and css Styled-Components. It is a dynamic application structured on anchor tags to make navigation very easy and simple. The application shows professional information about the author.",
     image: '/images/portfolio.png',
     tags: ['React', 'Styled-Components', 'Next.js'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: '',
+    visit: 'https://github.com/bquaiatti/portfolio',
     id: 3,
   },
 ];
