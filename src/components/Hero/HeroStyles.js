@@ -23,16 +23,15 @@ export const RightSection = styled.div`
    flex-direction: column;
    margin: 110px 50px 150px 100px;
    @media ${(props) => props.theme.breakpoints.sm} {
-    width: 20%;
-    display: none;
+    width: 30%;
+    display: flex;
     flex-direction: column;
     margin: 0 auto;
   }
   @media ${(props) => props.theme.breakpoints.md} {
-    width: 100%;
+    width: 40%;
     display: none;
     flex-direction: column;
-
     margin: 0 auto;
   }
 `;
